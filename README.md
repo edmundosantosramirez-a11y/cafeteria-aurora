@@ -19,12 +19,18 @@ Tres vistas: Inicio, Servicios y Contacto. Un breakpoint en 768 px para celular.
 Textos alternativos, labels en el formulario, jerarquía de encabezados, enlace para saltar al contenido, foco visible, contraste legible y atributo `lang` que cambia con el idioma.
 
 ## Capturas
-- Escritorio: `capturas/escritorio.png`
-- Móvil: `capturas/movil.png`
+### Escritorio
+![Vista de escritorio](capturas/escritorio.png)
+
+### Móvil
+![Vista móvil](capturas/movil.png)
 
 ## Resultados de validación
-- HTML (W3C Validator): `capturas/validacion-html.png`
-- CSS (W3C Jigsaw): `capturas/validacion-css.png`
+### Validación HTML (W3C Validator)
+![Validación HTML](capturas/validacion-html.png)
+
+### Validación CSS (W3C Jigsaw)
+![Validación CSS](capturas/validacion-css.png)
 
 ## Sitio publicado
 https://edmundosantosramirez-a11y.github.io/cafeteria-aurora/
@@ -42,7 +48,7 @@ Author: Edmundo Santos Ramírez, student ID 2148132.
 Build and publish a site using semantic HTML5 and modern CSS, applying usability, accessibility and standards validation.
 
 ## Technologies
-HTML5, CSS3 (Flexbox and Grid), basic JavaScript for the language switch, Git/GitHub y GitHub Pages.
+HTML5, CSS3 (Flexbox and Grid), basic JavaScript for the language switch, Git/GitHub and GitHub Pages.
 
 ## Structure
 Three views: Home, Services and Contact. One breakpoint at 768 px for mobile.
@@ -51,12 +57,18 @@ Three views: Home, Services and Contact. One breakpoint at 768 px for mobile.
 Alternative text, form labels, heading hierarchy, skip link, visible focus, readable contrast and a `lang` attribute that changes with the language.
 
 ## Screenshots
-- Desktop: `capturas/escritorio.png`
-- Mobile: `capturas/movil.png`
+### Desktop
+![Desktop view](capturas/escritorio.png)
+
+### Mobile
+![Mobile view](capturas/movil.png)
 
 ## Validation results
-- HTML (W3C Validator): `capturas/validacion-html.png`
-- CSS (W3C Jigsaw): `capturas/validacion-css.png`
+### HTML Validation (W3C Validator)
+![HTML Validation](capturas/validacion-html.png)
+
+### CSS Validation (W3C Jigsaw)
+![CSS Validation](capturas/validacion-css.png)
 
 ## Live site
 https://edmundosantosramirez-a11y.github.io/cafeteria-aurora/
